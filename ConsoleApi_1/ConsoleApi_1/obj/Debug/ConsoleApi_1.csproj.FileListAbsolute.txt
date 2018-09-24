@@ -1,0 +1,7 @@
+D:\CSharp\ConsoleApi_1\ConsoleApi_1\bin\Debug\ConsoleApi_1.exe.config
+D:\CSharp\ConsoleApi_1\ConsoleApi_1\bin\Debug\ConsoleApi_1.exe
+D:\CSharp\ConsoleApi_1\ConsoleApi_1\bin\Debug\ConsoleApi_1.pdb
+D:\CSharp\ConsoleApi_1\ConsoleApi_1\obj\Debug\ConsoleApi_1.csproj.CoreCompileInputs.cache
+D:\CSharp\ConsoleApi_1\ConsoleApi_1\obj\Debug\ConsoleApi_1.exe
+D:\CSharp\ConsoleApi_1\ConsoleApi_1\obj\Debug\ConsoleApi_1.pdb
+D:\CSharp\ConsoleApi_1\ConsoleApi_1\obj\Debug\ConsoleApi_1.csprojAssemblyReference.cache
